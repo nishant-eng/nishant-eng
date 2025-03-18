@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishant-eng
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS(Java Script)
+- 🌱 I’m currently learning JS(Java Script) with React
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me @ nishant03937@gmail.com
 
