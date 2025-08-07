@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS(Java Script) with React
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me @ nishant03937@gmail.com
+- 📫 Reach me @ nishant03937@gmail.com
 
 <!---
 nishant-eng/nishant-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
